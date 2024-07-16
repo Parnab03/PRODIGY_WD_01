@@ -50,13 +50,20 @@ section:nth-child(odd) {
     background: #A7BEAE;
 }
 .img_1{
-    width: 50%;
+    width: 90%;
     height: 50vh;
     object-fit: cover;
     border: solid 5px #B85042;
     border-radius: 30px;
     margin-left: 100px;
+    cursor: pointer;
 }
-/* .img_1:nth-child(odd){
-    border: solid 5px #323946;
-} */
+.contact-class{
+    width: 100%;
+    height: 50vh;
+    object-fit: cover;
+    border: solid 5px #B85042;
+    border-radius: 30px;
+    margin-left: 50px;
+    cursor: pointer;
+}
